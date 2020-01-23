@@ -1,2 +1,2 @@
 # monte-carlo
-Alguns códigos para explicar o método Monte Carlo
+Alguns exemplos para explicar o método Monte Carlo
