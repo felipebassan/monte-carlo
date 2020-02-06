@@ -2,7 +2,7 @@
 require(data.table)
 require(ggplot2)
 
-stories = 173; #quantidade total de histórias
+stories = 178; #quantidade total de histórias
 throughput = c(3,2,7,4,1)
 
 trials = 100000; #quantidade da simulações
